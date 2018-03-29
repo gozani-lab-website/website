@@ -1,0 +1,27 @@
+name: "Gozani Lab"                          
+output_dir: "."
+navbar:
+  title: "Gozani Lab"    
+  left:
+    - text: "Research"
+      icon: fa-sitemap
+      href: research.html
+    - text: "Publications"
+      icon: fa-book
+      href: publications.html
+    - text: "People"
+      icon: fa-user
+      href: people.html  
+    - text: "Lab Alumni"
+      icon: fa-users 
+      href: labalumni.html
+    - text: "Protocols"
+      icon: fa-rss
+      href: protocols.html
+    - text: "Contact"
+      icon: fa-envelope-o
+      href: mailto:ogozani@stanford.edu?cc=bkoehler@stanford.edu 
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
