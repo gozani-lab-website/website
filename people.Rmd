@@ -5,7 +5,7 @@ title: "People"
 
 ![](people_photos/Gozani_photo.jpg){width=150px}
 
-[Or Gozani](https://med.stanford.edu/profiles/or-gozani), Professor 650-736-7639
+[Or Gozani](https://med.stanford.edu/profiles/or-gozani), Professor
 
 
 
@@ -23,7 +23,11 @@ title: "People"
 
 ![](people_photos/Robert_Farr.jpg){width=150px}
 
-Robert Farr, Technician
+[Robert Farr](https://stanfordwho.stanford.edu/SWApp/lookup?search=Farr,%20Robert), Technician
+
+![](people_photos/Joel_Francis.tiff){width=150px}
+
+[Joel William Francis](https://stanfordwho.stanford.edu/SWApp/lookup?search=Francis,%20Joel), Graduate Student
 
 
 
@@ -33,7 +37,7 @@ Robert Farr, Technician
 
 
 
-![](people_photos/Bohdan_Khomtchouk.jpg){width=150px}
+![](people_photos/Bohdan_Khomtchouk.png){width=150px}
 
 [Bohdan Khomtchouk](https://profiles.stanford.edu/bohdan-khomtchouk), Postdoctoral Researcher
 
