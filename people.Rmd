@@ -95,4 +95,9 @@ title: "People"
 Frodo, lab dog
 
 
+<!-- note the extra spaces below for the caption to render properly -->
+<center>
 
+![Lab outing](figures/group_lab_photo_1.jpg)
+
+</center>
