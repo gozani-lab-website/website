@@ -9,9 +9,9 @@ title: "People"
 
 
 
-![](people_photos/Candy_Chen.jpg){width=150px}
+![](people_photos/Kami_Bhat.jpg){width=150px}
 
-[Candy Chen](https://stanfordwho.stanford.edu/SWApp/lookup?search=Ying%20Jiun%20Chen), Postdoctoral Researcher
+[Kami Bhat](https://profiles.stanford.edu/192526), Postdoctoral Researcher
 
 
 
@@ -25,7 +25,7 @@ title: "People"
 
 [Robert Farr](https://stanfordwho.stanford.edu/SWApp/lookup?search=Farr,%20Robert), Technician
 
-![](people_photos/Joel_Francis.tiff){width=150px}
+![](people_photos/Joel_Francis.jpg){width=150px}
 
 [Joel William Francis](https://stanfordwho.stanford.edu/SWApp/lookup?search=Francis,%20Joel), Graduate Student
 
