@@ -4,6 +4,14 @@ title: "Publications"
 
 For latest updates on the lab's recent papers and citation information, please see the comprehensive [Google Scholar Citations page](https://scholar.google.com/citations?user=jopHD6kAAAAJ&hl=en).
 
+**2018:**
+
+- Alex W. Wilkinson\*, Jonathan Diep\*, Shaobo Dai\*, Shuo Liu, Yaw shin Ooi,  Dan Song, Tie-Mei Li, John R. Horton, Xing Zhang, Chao Liu, Darshan V. Trivedi, Katherine M. Ruppel, José G. Vilches-Moure,  Kerriann M. Casey, Justin Mak, Tina Cowan, Joshua E. Elias, Claude M. Nagamine, James A. Spudich, Xiaodong Cheng\#, Jan E. Carette\# and Or Gozani\# (2018) SETD3 is an Actin Histidine Methyltransferase that Prevents Primary Dystocia. <a href="https://www.nature.com/articles/s41586-018-0821-8" target="_blank"> <strong> <span style="color: #0000ff;"> Nature. </span></strong></a> 10.1038/s41586-018-0821-8. (Advance Online Publication)
+\*These Authors Contributed Equally; \# Co-correspondence 
+
+- Shuo Liu\*, Simone Hausmann\*, Scott Moore Carlson, Mary Esmeralda Fuentes, Joel William Francis, Renjitha Pillai, Shane Michael Lofgren, Laura Hulea, Kristofferson Tandoc, Jiuwei Lu, Ami Li, Nicholas Dang Nguyen, Marcello Caporicci, Michael Paul Kim, Anirban Maitra, Huamin Wang, Ignacio Ivan Wistuba, John Anthony Porco, Jr., Michael Cory Bassik, Joshua Eric Elias, Jikui Song, Ivan Topisirovic, Capucine Van Rechem, Pawel Karol Mazur\# and Or Gozani\# (2018) METTL13 methylation of eEF1A increases translational output to promote tumorigenesis. Cell, in press.
+\*These Authors Contributed Equally; \# Co-correspondence
+
 **2017:**
 
 - Kutateladze TG, Gozani O, Bienz M, Ostankovitch M. (2017) Histone modifications for chromatin dynamics and cellular plasticity. <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=28623961" target="_blank"><strong><span style="color: #0000ff;"> J Mol Biol. </span></strong></a> 2017 Jun 30;429(13):1921-1923. doi: 10.1016/j.jmb.2017.06.001  PMID: 28623961
