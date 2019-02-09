@@ -54,6 +54,11 @@ title: "People"
 [Shuo Liu](https://stanfordwho.stanford.edu/SWApp/lookup?search=Liu,Shuo), Postdoctoral Researcher
 
 
+![](people_photos/J_Park.jpg){width=150px}
+
+[Ju-Hyung Park](https://stanfordwho.stanford.edu/SWApp/detailAction.do?key=DR948F995%20%20%20%20%20%20%20&search=Park&soundex=&stanfordonly=&affilfilter=everyone&filters=), Graduate Student
+
+
 
 ![](people_photos/Deepa_Sengupta.jpg){width=150px}
 
