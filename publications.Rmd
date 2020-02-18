@@ -4,7 +4,14 @@ title: "Publications"
 
 For latest updates on the lab's recent papers and citation information, please see the comprehensive [Google Scholar Citations page](https://scholar.google.com/citations?user=jopHD6kAAAAJ&hl=en).
 
+**2020:**
+
+- Shaobo Dai, John R. Horton, Alex W. Wilkinson, Or Gozani, Xing Zhang and Xiaodong Cheng (2020) An engineered variant of SETD3 methyltransferase alters target specificity from histidine to lysine methylation. <a href="https://www.jbc.org/content/early/2020/01/07/jbc.RA119.012319.short" target="_blank"> <strong> <span style="color: #0000ff;"> Journal of Biological Chemistry. </span></strong></a> 2020, doi: 10.1074/jbc.RA119.012319  PMID: 31911441
+
 **2019:**
+
+- Bohdan B. Khomtchouk\*, Diem-Trang Tran\*, Kasra A. Vand, Matthew Might, Or Gozani and Themistocles L. Assimes (2019) Cardioinformatics: the nexus of bioinformatics and precision cardiology. <a href="https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbz119/5626336?redirectedFrom=fulltext" target="_blank"> <strong> <span style="color: #0000ff;"> Briefings in Bioinformatics. </span></strong></a> 2019, doi: 10.1093/bib/bbz119  PMID: 31802103
+\*These Authors Contributed Equally
 
 - Bohdan B. Khomtchouk, Kasra A. Vand\*, William C. Koehler\*, Diem-Trang Tran, Kai Middlebrook,  Shyam Sudhakaran, Christopher S. Nelson, Or Gozani and Themistocles L. Assimes (2019) HeartBioPortal: An Internet-of-Omics for Human Cardiovascular Disease Data. <a href="https://www.ahajournals.org/doi/10.1161/CIRCGEN.118.002426" target="_blank"> <strong> <span style="color: #0000ff;"> Circulation: Genomic and Precision Medicine. </span></strong></a> 2019 Ap;12(4):e002426. doi: 10.1161/CIRCGEN.118.002426  PMID: 31294639
 \*These Authors Contributed Equally
